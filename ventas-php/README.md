@@ -1,2 +1,0 @@
-# FrontendGestion
-Proyecto de Gestion

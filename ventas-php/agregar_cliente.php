@@ -2,7 +2,7 @@
 include_once "encabezado.php";
 include_once "navbar.php";
 session_start();
-
+#agregar_cliente.php
 if(empty($_SESSION['usuario'])) header("location: login.php");
 
 ?>
